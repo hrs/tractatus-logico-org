@@ -1,5 +1,7 @@
 ## Tractatus Logico-Org
 
+![tractatus](http://harryrschwartz.com/assets/images/posts/tractatus.png "tractatus")
+
 If you've ever thought to yourself, "Golly, I'd sure love to read one of the seminal works of 20th-century analytical philosophy, but I'd have to leave my beloved Emacs!" then you've sure stumbled onto the right repo.
 
 Wittgenstein's [*Tractatus Logico-Philosophicus*](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus) is organized as an outline, which makes it very suitable for transcription into org-mode. This particular version features:
