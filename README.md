@@ -16,3 +16,7 @@ Wittgenstein's [*Tractatus Logico-Philosophicus*](https://en.wikipedia.org/wiki/
 - A few passages in the *Tractatus* make use of illustrations; these aren't currently included. =(
 
 An org-mode-friendly version of *Principia Mathematica* is left as an exercise to the reader.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hrs/tractatus-logico-org/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
