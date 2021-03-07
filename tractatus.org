@@ -394,7 +394,7 @@
 *** 4.25 If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.
 *** 4.26 The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 *** 4.27 With regard to the existence of $n$ atomic facts there are
-    $K_n = $\sum_{v=0}^n \binom{n}{v}$ possibilities.
+    $K_n = \sum_{v=0}^n \binom{n}{v}$ possibilities.
     It is possible for all combinations of atomic facts to exist, and the others not to exist.
 *** 4.28 To these combinations correspond the same number of possibilities of the truth---and falsehood---of n elementary propositions.
 ** 4.3 The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts.
