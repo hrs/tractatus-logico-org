@@ -394,7 +394,7 @@
 *** 4.25 If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.
 *** 4.26 The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 *** 4.27 With regard to the existence of $n$ atomic facts there are
-    $K_n = $\sum_{v=0}^n \binom{n}{v}$ possibilities.
+    $K_n = \sum_{v=0}^n \binom{n}{v}$ possibilities.
     It is possible for all combinations of atomic facts to exist, and the others not to exist.
 *** 4.28 To these combinations correspond the same number of possibilities of the truth---and falsehood---of n elementary propositions.
 ** 4.3 The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts.
@@ -520,7 +520,7 @@
 **** 5.131 If the truth of one proposition follows from the truth of others, this expresses itself in relations in which the forms of these propositions stand to one another, and we do not need to put them in these relations first by connecting them with one another in a proposition; for these relations are internal, and exist as soon as, and by the very fact that, the propositions exist.
 ***** 5.1311 When we conclude from $p \lor q$ and $\neg p$ to $q$ the relation between the forms of the propositions "$p \lor q$" and "$\neg p$" is here concealed by the method of symbolizing. But if we write, e.g. instead of "$p \lor q$" "$p|q.|.p|q$" and instead of "$\neg p$" "$p|p$" ($p|q$=neither $p$ nor $q$), then the inner connexion becomes obvious.
       (The fact that we can infer $fa$ from $(x).fx$ shows that generality is present also in the symbol "$(x).fx$".
-**** TODO 5.132 If $p$ follows from $q$, I can conclude from $q$ to $p$; infer $p$ from $q$.
+**** 5.132 If $p$ follows from $q$, I can conclude from $q$ to $p$; infer $p$ from $q$.
      The method of inference is to be understood from the two propositions alone.
      Only they themselves can justify the inference.
      Laws of inference, which---as in Frege and Russell---are to justify the conclusions, are senseless and would be superfluous.
